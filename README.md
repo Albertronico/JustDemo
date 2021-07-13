@@ -3,7 +3,7 @@ JustDemo is a repository spring boot example
 
 <h2>SpringBoot Demo.</h2>
 
-<li>Objet Photos.</li>
+<li>Object Photos.</li>
 
 <li>Method GET and POST</li>
 
