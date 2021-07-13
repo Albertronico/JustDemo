@@ -12,7 +12,8 @@ JustDemo is a repository spring boot example
 <li>JUnit Test</li>
 
 <ul><h1>Resume: </h1>
-    <li>Properties: application.yml</li>
+    <li> Data: https://jsonplaceholder.typicode.com/photos</li>
+   <li>Properties: application.yml</li>
    <li> First create list of photos to be able to launch retrieve tests.</li>
   
    <li>Implemented methods "saveAll, findAll, findPhotosByAlbumId ..."</li>
